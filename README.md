@@ -4,7 +4,7 @@ This repository does contain the codes for the book `Statistics for Machine Lear
 
 Every code snippet was written in both `Python` and `R` programming for ease.
 
-You can purchase the book from [Packt publishing] (https://www.packtpub.com/big-data-and-business-intelligence/statistics-machine-learning)
+You can purchase the book from [Packt publishing](https://www.packtpub.com/big-data-and-business-intelligence/statistics-machine-learning)
 
 ```
 Table of Contents
