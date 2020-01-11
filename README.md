@@ -2,10 +2,11 @@
 
 This repository does contain the codes for the book `Statistics for Machine Learning` book.
 
-Every code snippet was written in both `Python` and `R` programming for ease
+Every code snippet was written in both `Python` and `R` programming for ease.
 
-https://www.packtpub.com/big-data-and-business-intelligence/statistics-machine-learning
+You can purchase the book from [Packt publishing] (https://www.packtpub.com/big-data-and-business-intelligence/statistics-machine-learning)
 
+```
 Table of Contents
 
 1. JOURNEY FROM STATISTICS TO MACHINE LEARNING
@@ -26,3 +27,4 @@ Table of Contents
 
 1. REINFORCEMENT LEARNING
 
+```
