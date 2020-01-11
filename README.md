@@ -4,27 +4,27 @@ This repository does contain the codes for the book `Statistics for Machine Lear
 
 Every code snippet was written in both `Python` and `R` programming for ease.
 
-You can purchase the book from [Packt publishing](https://www.packtpub.com/big-data-and-business-intelligence/statistics-machine-learning)
+You can purchase the book from [Packt publishing](https://www.packtpub.com/big-data-and-business-intelligence/statistics-machine-learning) or [Amazon](https://www.amazon.in/Statistics-Machine-Learning-Pratap-Dangeti/dp/1788295757)
 
 ```
 Table of Contents
 
 1. JOURNEY FROM STATISTICS TO MACHINE LEARNING
 
-1. PARALLELISM OF STATISTICS AND MACHINE LEARNING
+2. PARALLELISM OF STATISTICS AND MACHINE LEARNING
 
-1. LOGISTIC REGRESSION VERSUS RANDOM FOREST
+3. LOGISTIC REGRESSION VERSUS RANDOM FOREST
 
-1. TREE-BASED MACHINE LEARNING MODELS
+4. TREE-BASED MACHINE LEARNING MODELS
 
-1. K-NEAREST NEIGHBORS AND NAIVE BAYES
+5. K-NEAREST NEIGHBORS AND NAIVE BAYES
 
-1. SUPPORT VECTOR MACHINES AND NEURAL NETWORKS
+6. SUPPORT VECTOR MACHINES AND NEURAL NETWORKS
 
-1. RECOMMENDATION ENGINES
+7. RECOMMENDATION ENGINES
 
-1. UNSUPERVISED LEARNING
+8. UNSUPERVISED LEARNING
 
-1. REINFORCEMENT LEARNING
+9. REINFORCEMENT LEARNING
 
 ```
