@@ -8,7 +8,7 @@ You can purchase the book from [Packt publishing](https://www.packtpub.com/big-d
 
 
 <img src = "Images/stat_for_ml.JPG"
-	style = "float: center; margin-right:10px;"
+	style = "float: left; margin-right:10px;"
 	width = "200" />	
 
 
