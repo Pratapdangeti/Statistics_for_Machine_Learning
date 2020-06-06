@@ -6,6 +6,12 @@ Every code snippet was written in both `Python` and `R` programming for ease.
 
 You can purchase the book from [Packt publishing](https://www.packtpub.com/big-data-and-business-intelligence/statistics-machine-learning) or [Amazon](https://www.amazon.in/Statistics-Machine-Learning-Pratap-Dangeti/dp/1788295757)
 
+
+<img src = "Images/stat_for_ml.JPG"
+	style = "float: left; margin-right:10px;"
+	width = "200" />	
+
+
 ```
 Table of Contents
 
